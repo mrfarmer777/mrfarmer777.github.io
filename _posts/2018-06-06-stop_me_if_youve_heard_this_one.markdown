@@ -1,0 +1,27 @@
+---
+layout: post
+title:      "Stop Me If You've Heard This One:"
+date:       2018-06-06 19:24:35 +0000
+permalink:  stop_me_if_youve_heard_this_one
+---
+
+##### A music major begins teaching high school physics, starts a computer programming club for students, and *then* learns web development. 
+
+Career changes seem to be the new normal and my story isn't all that unique. However, people are understandably surprised when I tell them about making the switch from being a band  director to teaching physics. "Well, music is connected to science, right!?" is a typical response, and a fair one. Technically everything is connected to physics, including music. As one colleague recently put it, "it's literally all around you." Yes, on some level everything is connected. But what has drawn me to code is that it unites many of the things I am passionate about. Why am I just getting to it now? Well, I had to take the scenic route first to learn what I was passionate about first. 
+
+### O.G. - Original Geocities
+The first exposure I had to code of any kind was writing HTML pages on Geocities when I was about 12. I had no concept of what to do or what I wanted to make, but I thought it was cool that the gibberish turned into a web page. I also played a lot of videos games back then and can remember 'modding' some of my games to make them more realistic (changing gravitational constants, and the number of lives I started with. You know, important stuff.) But I had it in my head that real 'code' was way too advanced for me to understand. I didn't perceive myself as a good enough student to handle something that difficult.
+
+I did love music though and I loved working with people. When it came time to make my first choice about a career it seemed obvious: Band Director! IMusic was something I was good at and it had always made sense to me. I was lucky enough to land a job right out of college directing at my alma mater (every band nerd's dream.) But over time, I found that though I loved music, I was really passionate about teaching; that actual working-with-students part of it. Band directing just didn't allow me to get into the classroom as much as I wanted. 
+
+### The Birth of Byte Club
+After 7 years as a director, I was again fortunate enough to switch over to teaching high school physics. I loved trying to help students understand what many feel is a particularly challenging and abstract subject. I also loved the logical and objective nature of the subject. One day, three of my students came to me  and asked if I would sponsor a computer programming club. I asked if it was alright that I knew little to nothing about code. They looked at each other and replied "Yeah, we just need someone to sponsor us." And so our computer programming club, Byte Club was born. 
+
+After the first meeting of this club, I was hooked. The three students who had started the club had tapped into a group I didn't know existed. These students connected with a sort of underground movement of kids interested in computers well beyond the social media and video game infatuation. They exuded a mindset that was creative, ambitious, and undaunted by large-scale goals. They created websites, video games, mobile apps, and wondefully complex projects. What's more is that I watched these three students bring 30 brand new coders on board with encouragement, empathy, and a ton of positive support. They supported each other when they struggled, and they genuinely celebrated each others' achievements. 
+
+On top of all this were the conversations these kids were having with each other about *math, physics, and logic!* This was like teacher gold. I instantly wanted to learn as much as I could about programming and scripting so that I could support the kids who came to the club. I tried to shout the benefits of coding from the rooftops at my school. "You wouldn't belieive the conversations these kids are having! The projects they've built!" I would say to anyone who would listen. I have tried to continue to learn more and more code to support the students in this group over the years and to try and advocate for CS as a discipline in my school. In the 2016-17 school year, I even got to teach a class on Mobile App Development with MIT App Inventor and Python.
+
+### Coming Home to Code
+As I've progressed with my coding ability I have become passionate about it in a very new way. My other endeavors have been based around things I was already good at. I taught music because I was good at music. I taught physics because I like physics and I'm good at teaching. But I love coding *because* it's difficult. I love coding *because* it requires solving complex problems and modeling the real world (just like physics!) I also love that there are a million ways to accomplish the same task; that there is an *artfulness* to well-written code (like well-written music).  Coding is also a human endeavor that requires understanding the world through others' viewpoint (just like teaching.) Most of of I love that programming requires failure. It involves moving between two distinct emotional states: feeling like a complete idiot and feeling like the master of the universe. It has taken me a long time to realize that programming, coding, and development incorporate so much of these passions of mine (or that they were my passions at all.) But as they say: if at first you don't succeed...
+
+
