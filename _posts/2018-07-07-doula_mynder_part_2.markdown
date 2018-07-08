@@ -129,7 +129,7 @@ This view took the most time to create, but it was a critical part of the app. T
 3. Working with `DateTime` objects to display how many weeks along each client was.
 4. Implementing Bootstrap 4 to create the vision I had in mind.
 
-I only ran into a little bit of trouble working with DateTime objects. Since client progress is typically measured in weeks (an unusual measurement to make) and since some pregnancies can stretch over a new calendar year, I found myself using quite a bit of code to calculate a client's current progres. Initially I did this using ERB in the view itself. Then I remembered I can use **helper methods** and this is a perfect candidate.  The method below takes in a client and returns how many weeks along they are with a one-line calculation. Since 40 weeks of justation is typically what is used to calculate a due date, my wife suggested I use that to calculate progress. 
+I only ran into a little bit of trouble working with DateTime objects. Since client progress is typically measured in weeks (an unusual measurement to make) and since some pregnancies can stretch over a new calendar year, I found myself using quite a bit of code to calculate a client's current progres. Initially I did this using ERB in the view itself. Then I remembered I can use **helper methods** and this is a perfect candidate.  The method below takes in a client and returns how many weeks along they are with a one-line calculation. Since 40 weeks of gestation is typically what is used to calculate a due date, my wife suggested I use that to calculate progress. 
 
 ```
 def get_progress(client)
