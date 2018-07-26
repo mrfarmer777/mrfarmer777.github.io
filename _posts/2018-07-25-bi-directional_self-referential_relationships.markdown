@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Bi-Directional Self-Referential Relationships"
-date:       2018-07-26 02:27:24 +0000
+date:       2018-07-25 22:27:25 -0400
 permalink:  bi-directional_self-referential_relationships
 ---
 
-### Scarier than they sound.
+### They're scarier than they sound.
 
 ### Background
 [Ru-sham-bo](https://github.com/mrfarmer777/ru-shambo) is a play on Roshambo (Rock, Paper, Scissors, but with Ruby!)  In essence, it is a multiplayer game that flows in very much the same was as Words with Friends. You start by making a match with another player. Once you have a match, both players can start games that belong to this match. From there, players can compete to get on top of the leaderboard and vie for the best record and the highest "Ru-Rank". This little game is in the spirit of fun and community.
