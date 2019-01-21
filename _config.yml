@@ -1,15 +1,14 @@
 # Site settings
+author: Matt Farmer
 title: Farmer and the Dell
 header-img: img/home-bg.png
 email: mrfarmer777@gmail.com
-copyright_name: mrfarmer777
+copyright_name: Matt Farmer
 description: > # this means to ignore newlines until "baseurl:"
-  Learning to build with code.
+  Solving complex problems with code.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: mrfarmer777
 github_username:  mrfarmer777
-learn_profile: mrfarmer777
-email_username: mrfarmer777@gmail.com
 
 # Build settings
 markdown: kramdown
