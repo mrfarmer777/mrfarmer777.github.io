@@ -68,13 +68,13 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Rock Salt', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
 }
 .navbar-custom .nav li a {
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 12px;
   font-weight: 800;
   letter-spacing: 1px;
@@ -98,7 +98,8 @@ hr.small {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(0, 186, 210, 0.9);
+    text-shadow: black 3px 3px 3px ;
   }
 }
 @media only screen and (min-width: 1170px) {
