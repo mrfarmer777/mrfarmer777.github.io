@@ -1,10 +1,12 @@
 ---
 layout: post
-title:      "JavaScript - Beware the Non-Magic"
+title:      "To JavaScript!"
+
 date:       2018-08-05 21:25:26 +0000
 permalink:  javascript_-_beware_the_non-magic
 ---
 
+### Beware the non-magic
 Back in my self-guided coding days, I would have said that JavaScript was my native language. Though the initial learning curve was higher than that of Ruby or Python, I feel like all the syntactic breadcrumbs helped me to pay attention to the details of the code I was writing.  It was great training for the idea that the computer only performs exactly the actions you instruct it to (and only if it's all followed by a semi-colon).
 
 Coming back to JS after diving into Ruby and Python felt a little strange. It was a bit like driving stick shift after years of automatic. After a while I was back in the swing of things. But compared to Ruby I was struck by the absence of that "Ruby Magic". Ruby seems to know what you're thinking. Want to know if any element of an array is odd? Use the `.any?` method. I love it. Javascript must be told, every step of the way,  what to do. However, it was exactly this attitude that brought me trouble in my jQuery project.

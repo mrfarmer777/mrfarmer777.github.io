@@ -6,9 +6,9 @@ permalink:  doula_mynder_part_2
 ---
 
 
-## Early Wins
+### Early Wins
 
-### Starting from Scratch
+#### Starting from Scratch
 The hardest thing to face as a developer is a blank project. This is especially true if you don't feel confident about setting up all of the project requirements from scratch. When it comes to practice labs, much of the work is already done for you. The `gemfile` is made, `config.ru` is all set, and things are generally configured and just waiting for you to put your code in. 
 
 For this project, I decided to challenge myselt to set up the entire environment from scratch, from memory. It was an exercise that forced me to not just remember what I needed, but why I needed it in the first place. I started out with the gemfile and tried to remember all of the gems that I would need to build my app.  I also tried to include little notes to myself about what each gem was providing for me. I found this to be really helpful.
