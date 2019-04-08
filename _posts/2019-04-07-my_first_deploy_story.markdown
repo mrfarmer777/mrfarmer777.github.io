@@ -5,7 +5,7 @@ sub-title: "Getting Mustang Match off the ground"
 header-img: ""
 ---
 
-### Let's Actually DO something!
+### Let's Get This Out There
 As a self-taught coder for the first four years, I created lots of little one-off projects, mainly in my role as a teacher. I made lots of small tutorials, examples, boilerplates and challenges for students in my classes and clubs to explore. In this teaching role, I had plenty of experience planning, building, iterating, and refining these projects with and for students. However I never really had to take any one of them that final 40 ft and actually deploy them to the masses; for use by people beyond those that helped build it. 
 
 
