@@ -456,3 +456,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+
+
+/*////////////CUSTOM STYLING FOR NOW /////////////////*/
+.project-updates-container .post-preview .post-info{
+  font-size: 14px;
+  
+}

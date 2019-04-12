@@ -3,6 +3,7 @@ layout: post
 title:      "Read like you mean it with 'Dog Ears'"
 date:       2018-08-19 08:29:27 +0000
 permalink:  read_like_you_mean_it_with_dog_ears
+tags: [dog_ears]
 ---
 
 

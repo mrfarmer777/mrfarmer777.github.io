@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "React Styled Components"
 sub-title: "Tuts Tuesday I"
 header-img: ""

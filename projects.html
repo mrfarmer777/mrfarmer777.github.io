@@ -1,0 +1,14 @@
+---
+layout: page
+title: Projects
+---
+
+<!-- Trying to make a projects index here? -->
+{% for project in site.projects %}
+<div class="post-preview">
+    <a href="{{project.url | prepend: site.baseurl}}">
+        <h2 class="post-title">{{project.title}}</h2>
+    </a>
+</div>
+
+{%endfor%}
