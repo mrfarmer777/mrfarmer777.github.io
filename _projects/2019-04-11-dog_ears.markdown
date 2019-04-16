@@ -1,0 +1,31 @@
+---
+layout: project
+title: Dog Ears
+subtitle: Just keep reading and reading and reading.... 
+header-image: ""
+repo-url: https://github.com/mrfarmer777/dog_ears
+date: 2019-03-31 22:41:00 +0000
+tags: [react, redux, Dog Ears, education, literacy, rails]
+excerpt_separator: <!--more-->
+
+---
+
+
+### A Reading Log to Remember
+A critical task of any english teacher is to help their students fall in love with reading. Even in a world flooded with text, some students still miss out on the joy of diving into a fantastical story or reading the biography of one of their heros. Dog Ears extends the common Reading Log by offering teachers a variety of ways to nudge their students into the deeper waters of reading. Teachers can create and manage time and page goals as well as teacher-selected or crowdsourced "milestones". 
+<!--more-->
+
+
+
+### Project Architecture
+Dog Ears uses the Reactjs framework on top of a Rails API. The project also uses the Redux library to help manage state and React-Bootstrap to create a responsive front end design scheme. Dog Ears also leverages token-based authentication with JWT. Teachers and students can activate books to read from their own libraries or share with other students in their classes. 
+
+
+### Next Steps
+In continued development, Dog Ears will gain Google OAuth functionality to leverage the email accounts already created and managed by so many school districts. In addition, future implementation of the Google Books API will be  allow for use of book cover artwork as well as a vastly improved recommendation system. 
+
+
+
+
+
+

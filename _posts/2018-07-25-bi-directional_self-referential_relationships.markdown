@@ -3,6 +3,7 @@ layout: post
 title:      "Bi-Directional Self-Referential Relationships"
 date:       2018-07-25 22:27:25 -0400
 permalink:  bi-directional_self-referential_relationships
+tags: [Rails, Ru-Sham-Bo, MVC, ActiveRecord]
 ---
 
 ### They're scarier than they sound.

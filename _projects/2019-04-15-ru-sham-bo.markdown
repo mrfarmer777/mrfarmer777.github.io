@@ -1,0 +1,28 @@
+---
+layout: project
+title: Ru-Sham-Bo
+subtitle: A Ruby Implementation of Ro-sham-bo...with friends!
+header-image: ""
+repo-url: https://github.com/mrfarmer777/ru_shambo
+date: 2019-04-15 22:41:00 +0000
+tags: [rails, bootstrap, Ru-Sham-Bo, games, jquery]
+excerpt_separator: <!--more-->
+
+---
+
+
+### A little RPS between friends
+Ro-sham-bo (otherwise known as Rock, Paper, Scissors) is a simple childhood game and a great use case for passing data around within an app. In this game, users can throw Rock, Paper, or Scissors to challenge each other asynchronously (much like other games...with friends). Win games to rise up the leaderboard and become the "Throwmaster". This project features a customized, bootstrap-based front end design and Google Oauth2 authentication.
+<!--more-->
+
+
+
+
+
+
+
+
+
+
+
+

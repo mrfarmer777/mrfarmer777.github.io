@@ -21,31 +21,36 @@ layout: default
 	<div class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 			{{ content }}
+			{% if project.repo-url != ""%}
+			    <p>Follow project updates below and <a href="{{project.repo-url}}">fork the project on Github</a>
+			{% endif %}
 		</div>
 	</div>
-
-
-<h3>Project Updates</h3>
-<div class="project-updates-container">
-    <ul>
-        {% for post in site.posts %} 
-    
-        {% assign t = page.title | downcase | replace: " ", "_"%}
-        
-            {% if post.tags contains t %}
+	
+	
+    <div class="project-updates-container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <h3>Project Updates</h3>
+                <ul>
+                    {% for post in site.posts %} 
                 
-                <li class="post-preview">
-                    <a href="{{ post.url | prepend: site.baseurl }}">
-                        <p class="post-info">
-                            <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}: </span> <b>{{ post.title }}</b> by  {% if site.author %}{{ site.author }}{% else %}{{ site.github_username }}{% endif %}
-                        </p>
-                    </a>
-                </li><!--post preview-->
-
-            {%endif%}
-        {%endfor%}
-    </ul>
-    
-</div>
-
+                    {% assign t = page.title | downcase | replace: " ", "_"%}
+                    
+                        {% if post.tags contains t %}
+                            
+                            <li class="post-preview">
+                                <a href="{{ post.url | prepend: site.baseurl }}">
+                                    <p class="post-info">
+                                        <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}: </span> <b>{{ post.title }}</b> by  {% if site.author %}{{ site.author }}{% else %}{{ site.github_username }}{% endif %}
+                                    </p>
+                                </a>
+                            </li><!--post preview-->
+            
+                        {%endif%}
+                    {%endfor%}
+                </ul>
+            </div>
+        </div>
+    </div>
 </div><!--container-->
