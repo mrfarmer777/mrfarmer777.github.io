@@ -3,6 +3,7 @@ layout: post
 title: "The Problem with 'patch'"
 sub-title: "Why PATCH requests only work when you shout them."
 header-img: "img/patch.jpg"
+tags: [fetch api, HTTP PATCH, CORS PATCH]
 ---
 
 
@@ -71,7 +72,7 @@ And by crickets, I mean that your console lights up with the following gem:
 !["COOOOOOOORS!"]({{site.baseurl}}/img/StarTrekIIKhaaaaaan.png)
 _"COOOOOORS!"_
 
-Easy, Captain. You've dealt with this before. After all, your other methods are working. Why aren't they hitting CORS errors? With the help of some [other](https://medium.com/@damwhitaker/navigating-cors-using-react-and-rails-a58b4aee4733) [great](https://cecilycodes.com/rails-react-cors-issues/) [posts](https://stackoverflow.com/questions/17858178/allow-anything-through-cors-policy/17858276#17858276) on the topic, you remember you've already implemented the ```rack-cors``` gem that allows you to open the doors for you CORS needs. 
+Easy, Captain. You've dealt with this before. After all, your other methods are working. Why aren't they hitting CORS errors? With the help of some [other](https://medium.com/@damwhitaker/navigating-cors-using-react-and-rails-a58b4aee4733) [great](https://cecilycodes.com/rails-react-cors-issues/) [posts](https://stackoverflow.com/questions/17858178/allow-anything-through-cors-policy/17858276#17858276) on the topic, you remember you've already implemented the ```rack-cors``` gem that allows you to open the doors for your CORS needs. 
 
 Checking the ```config/application.rb``` file you see that this is indeed already set up.
 
