@@ -3,7 +3,7 @@ layout: post
 title: "The Problem with 'patch'"
 sub-title: "Why PATCH requests only work when you shout them."
 header-img: "img/patch.jpg"
-tags: [fetch api, HTTP PATCH, CORS PATCH]
+tags: [fetch api, HTTP PATCH, CORS PATCH, technical]
 ---
 
 
@@ -29,7 +29,7 @@ and your update route is defined and open for business:
   resources :sections, only: [:show, :destroy, :update]
 ```
 
-Just to make you feel even better, your ```:show``` and ```:destroy``` routes are already working like a charm. So you head over to your ```userActions.js``` in on the front end client. There you've carefully wired up your actions with your reducer (if you're using Redux, like me). You might have something that looks like this:
+Just to make you feel even better, your ```:show``` and ```:destroy``` routes are already working like a charm. So you head over to your ```userActions.js``` on the client side. There you've carefully wired up your actions with your reducer (if you're using Redux, like me). You might have something that looks like this:
 
 ```javascript
 //userActions.js
