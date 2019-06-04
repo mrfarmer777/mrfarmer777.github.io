@@ -2,7 +2,7 @@
 layout: post
 title: "What is a Data Coach?"
 sub-title: "The person you didn't know your school needed."
-header-img: "img/pencils.jpg"
+header-img: "img/gridboard.jpg"
 tags: [education, edtech, data coaching, teaching]
 ---
 

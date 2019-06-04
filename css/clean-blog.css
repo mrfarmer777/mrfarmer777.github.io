@@ -3,35 +3,52 @@
  * Copyright 2015 Start Bootstrap
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
+ 
+ 
+/*Colors*/
+:root {
+  --lblue: #0085a1;
+  --dblue: #0a2342;
+  --green: #78AB8E;
+  --dgreen: #095256;
+  --crimson: #DE598A;
+}
+
+
+
 
 body {
-  font-family: 'Lato', 'Times New Roman', serif;
+  font-family: 'Lato','Times New Roman', serif;
   font-size: 20px;
   color: #404040;
 }
+
+
 p {
   line-height: 1.5;
   margin: 30px 0;
 }
+
 p a {
-  text-decoration: underline;
+  text-decoration: none;
+  color: var(--crimson);
 }
 
-h1, h2{
-  font-family: 'Rock Salt', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+h1{
+  font-family: 'Rock Salt', Helvetica, Arial, sans-serif;
   font-weight: normal;
-  line-height: 1;
+  line-height: 1.3;
 }
 
-
+h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: bold;
-  font-style: italic;
-  line-height: 1;
+  font-style: normal;
+  line-height: 1.3;
 }
 
 
@@ -41,18 +58,18 @@ h6.powered_by {
   margin-top: 0px;
 }
 a {
-  color: #404040;
+  color: var(--lblue);
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: var(--crimson);
 }
 a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
 blockquote {
-  color: #808080;
+  color: var(--green);
   font-style: italic;
 }
 hr.small {
@@ -62,7 +79,7 @@ hr.small {
   border-color: white;
 }
 .navbar-custom {
-  background: white;
+  background: #84bc9c;
   position: absolute;
   top: 0;
   left: 0;
@@ -234,7 +251,7 @@ hr.small {
   }
 }
 .post-preview > a {
-  color: #404040;
+  color: #0a2342;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
